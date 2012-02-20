@@ -4,6 +4,7 @@
 
 Input:
 ```java
+
 // Unsolved sudoku (Board1):
 [
     [0, 6, 0, 1, 0, 4, 0, 5, 0], 
@@ -20,6 +21,7 @@ Input:
 
 Output:
 ```java
+
 [
     [9, 6, 3, 1, 7, 4, 2, 5, 8],
     [1, 7, 8, 3, 2, 5, 6, 4, 9],
@@ -32,6 +34,7 @@ Output:
     [6, 4, 2, 5, 9, 8, 1, 7, 3]
 ]
 // Checked board: true
+
 ```
 
 ## Example of use
