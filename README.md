@@ -3,8 +3,8 @@
 ## Example run
 
 Input:
-```
-Unsolved sudoku (Board1):
+```java
+// Unsolved sudoku (Board1):
 [
     [0, 6, 0, 1, 0, 4, 0, 5, 0], 
     [0, 0, 8, 3, 0, 5, 6, 0, 0], 
@@ -19,7 +19,7 @@ Unsolved sudoku (Board1):
 ```
 
 Output:
-```
+```java
 [
     [9, 6, 3, 1, 7, 4, 2, 5, 8],
     [1, 7, 8, 3, 2, 5, 6, 4, 9],
@@ -31,7 +31,7 @@ Output:
     [3, 1, 7, 2, 4, 6, 9, 8, 5],
     [6, 4, 2, 5, 9, 8, 1, 7, 3]
 ]
-Checked board: true
+// Checked board: true
 ```
 
 ## Example of use
