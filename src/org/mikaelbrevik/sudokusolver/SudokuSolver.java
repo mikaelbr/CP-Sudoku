@@ -23,6 +23,7 @@ public class SudokuSolver {
 
     public void setSudokuMap(int[][] map) {
         original = map;
+        solved = deepCloneArray(map);
     }
 
     public int[][] getSudokuMap() {
